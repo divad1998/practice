@@ -1,2 +1,2 @@
 # practice
-for java learning
+Practising some java features after learning.
